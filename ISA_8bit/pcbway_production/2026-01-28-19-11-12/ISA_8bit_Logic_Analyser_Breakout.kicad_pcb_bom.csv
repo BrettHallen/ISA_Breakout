@@ -1,0 +1,12 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+C1,1,10µF,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor
+J1,1,Interrupt Signals,PinHeader_1x06_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J10,1,GND,PinHeader_1x06_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J2,1,Data Bus,PinHeader_1x08_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J3,1,+5VDC Input,BarrelJack_Horizontal,,,,tht,DC Barrel Jack
+J4,1,Bus_ISA_8bit,ISA_8bit_Slot,,,,tht,8-bit ISA-PC bus connector
+J5,1,DMA Signals,PinHeader_1x08_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J6,1,Address Bus,PinHeader_1x20_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J7,1,Misc. Signals,PinHeader_1x06_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J8,1,Control Signals,PinHeader_1x06_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J9,1,Expansion,PinHeader_2x31_P2.00mm_Vertical,,,,tht,"Generic connector, double row, 02x31, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"

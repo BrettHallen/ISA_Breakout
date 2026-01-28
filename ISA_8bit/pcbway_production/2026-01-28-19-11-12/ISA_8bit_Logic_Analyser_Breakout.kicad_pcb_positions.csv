@@ -1,0 +1,12 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+80.189,-44.45,180.0,top,C1,,,CP_Radial_D5.0mm_P2.50mm,10µF,tht
+64.949,-115.57,180.0,top,J1,,,PinHeader_1x06_P2.54mm_Vertical,Interrupt Signals,tht
+113.844,-36.195,90.0,top,J10,,,PinHeader_1x06_P2.54mm_Vertical,GND,tht
+113.844,-41.91,0.0,top,J2,,,PinHeader_1x08_P2.54mm_Vertical,Data Bus,tht
+68.159,-123.37,0.0,top,J3,,,BarrelJack_Horizontal,+5VDC Input,tht
+94.159,-39.37,-90.0,top,J4,,,ISA_8bit_Slot,Bus_ISA_8bit,tht
+64.949,-97.79,180.0,top,J5,,,PinHeader_1x08_P2.54mm_Vertical,DMA Signals,tht
+113.844,-67.31,0.0,top,J6,,,PinHeader_1x20_P2.54mm_Vertical,Address Bus,tht
+64.949,-52.07,180.0,top,J7,,,PinHeader_1x06_P2.54mm_Vertical,Misc. Signals,tht
+64.949,-74.93,180.0,top,J8,,,PinHeader_1x06_P2.54mm_Vertical,Control Signals,tht
+131.624,-49.53,0.0,top,J9,,,PinHeader_2x31_P2.00mm_Vertical,Expansion,tht
