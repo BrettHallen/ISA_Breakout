@@ -1,0 +1,16 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator,Sim.Pins
+C1,1,470µF 16V,CP_Radial_D10.0mm_P5.00mm,,,,tht,Polarized capacitor,capacitor/THT/other,
+"C12, C13",2,100µF 25V,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor,capacitor/THT/other,
+"C14, C15, C16, C17, C2, C3, C4, C5, C6, C7, C8, C9",12,100nF,C_Disc_D3.0mm_W2.0mm_P2.50mm,,,,tht,Unpolarized capacitor,capacitor/THT/other,
+D1,1,POWER,LED_D5.0mm,,,,tht,Light emitting diode,LED/THT,1=K 2=A
+J10,1,ISA_Slot_3,ISA_8bit_Slot,,,,tht,8-bit ISA-PC bus connector,,
+J11,1,ISA_Slot_4,ISA_8bit_Slot,,,,tht,8-bit ISA-PC bus connector,,
+J12,1,ISA_Slot_5,ISA_8bit_Slot,,,,tht,8-bit ISA-PC bus connector,,
+J3,1,ATX-24,Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical,,,,tht,ATX Power supply 24pins,connector/Molex,
+J4,1,ISA_Slot_1,ISA_8bit_Slot,,,,tht,8-bit ISA-PC bus connector,,
+J9,1,ISA_Slot_2,ISA_8bit_Slot,,,,tht,8-bit ISA-PC bus connector,,
+R1,1,10KΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT,
+R2,1,LED,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT,
+R3,1,1KΩ (IORDY),R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT,
+R4,1,4.7KΩ (~{IOCHK}),R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT,
+SW1,1,POWER,PinHeader_1x02_P2.54mm_Vertical,,,,tht,Single Pole Single Throw (SPST) switch,connector/pin_header_socket,

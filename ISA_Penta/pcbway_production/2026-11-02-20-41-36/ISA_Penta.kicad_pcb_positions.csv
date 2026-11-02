@@ -1,0 +1,34 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+72.154,-51.388,90.0,top,C1,,,CP_Radial_D10.0mm_P5.00mm,470µF 16V,tht
+72.258,-60.24,90.0,top,C12,,,CP_Radial_D5.0mm_P2.50mm,100µF 25V,tht
+72.004,-68.408,-90.0,top,C13,,,CP_Radial_D5.0mm_P2.50mm,100µF 25V,tht
+123.312,-62.82,-90.0,top,C14,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+123.312,-57.76,-90.0,top,C15,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+174.112,-62.82,-90.0,top,C16,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+174.112,-57.74,-90.0,top,C17,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+97.912,-47.58,-90.0,top,C2,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+97.912,-113.62,-90.0,top,C3,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+123.312,-47.58,-90.0,top,C4,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+123.312,-113.62,-90.0,top,C5,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+148.712,-47.58,-90.0,top,C6,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+148.712,-113.62,-90.0,top,C7,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+174.112,-47.58,-90.0,top,C8,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+174.112,-113.62,-90.0,top,C9,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+197.734,-85.426,90.0,top,D1,,,LED_D5.0mm,POWER,tht
+71.404,-37.888,0.0,top,H1,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+54.404,-127.888,0.0,top,H2,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+123.404,-37.888,0.0,top,H3,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+123.404,-127.888,0.0,top,H4,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+199.404,-37.888,0.0,top,H5,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+199.404,-127.888,0.0,top,H6,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+138.552,-42.5,-90.0,top,J10,,,ISA_8bit_Slot,ISA_Slot_3,tht
+163.952,-42.5,-90.0,top,J11,,,ISA_8bit_Slot,ISA_Slot_4,tht
+189.352,-42.5,-90.0,top,J12,,,ISA_8bit_Slot,ISA_Slot_5,tht
+60.32,-42.5,-90.0,top,J3,,,Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical,ATX-24,tht
+87.752,-42.5,-90.0,top,J4,,,ISA_8bit_Slot,ISA_Slot_1,tht
+113.152,-42.5,-90.0,top,J9,,,ISA_8bit_Slot,ISA_Slot_2,tht
+94.61,-40.722,0.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10KΩ,tht
+197.734,-78.822,90.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,LED,tht
+197.734,-57.74,-90.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1KΩ (IORDY),tht
+197.654,-53.388,90.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,4.7KΩ (~{IOCHK}),tht
+197.654,-92.138,0.0,top,SW1,,,PinHeader_1x02_P2.54mm_Vertical,POWER,tht
